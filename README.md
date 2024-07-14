@@ -2,7 +2,7 @@
 This is a Java-based remote desktop application, using the Client-Server model, allowing users to control a computer remotely over a local network. The application leverages Socket for communication and JavaFX for building the user interface.
 ****
 ## Information
-- Course: HCMUS - Computer Network (MMT)
+- Course: HCMUS - CSC10008 - Computer Network (MMT)
 - Project Name: Remote computer control program
 - Instructor: Do Hoang Cuong
 - Group: 3 members
